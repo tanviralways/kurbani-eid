@@ -1,0 +1,123 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.qurbani-now {
+  background-image: linear-gradient(
+      to left,
+      rgba(245, 246, 252, 0.881),
+      rgba(54, 22, 46, 0.73)
+    ),
+    url(image/stock-vector-eid-al-adha-mubarak-background-design-1154473507.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-bottom: 100px;
+}
+.qurbani-now > h1 {
+  color: #fff;
+  font-size: 40px;
+}
+.qurbani-now p {
+  font-size: 20px;
+}
+.donate-btn {
+  background-color: crimson;
+  padding: 10px 10px;
+  font-size: large;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  color: gray;
+  font-size: 17px;
+}
+.donation-reason {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 100px;
+}
+.boy {
+  height: 350px;
+  width: 300px;
+}
+.description {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.description p {
+  margin-top: -16px;
+}
+.donation-method {
+  display: flex;
+  background-color: #fef4f5;
+  width: 30%;
+  margin: 20px;
+  height: 200px;
+  padding-top: 20px;
+}
+.icon {
+  padding: 25px;
+  height: 60px;
+}
+.donation-direct {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+.img3 {
+  width: 25%;
+  height: 300px;
+  padding: 10px;
+}
+.img-section {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.note {
+  text-align: center;
+}
+.card-sec {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  width: 25%;
+
+  margin: 10px;
+}
+.container {
+  padding: 0 8px 8px 8px;
+  border: 1px solid gray;
+  border-top: 0;
+}
+.container a {
+  color: crimson;
+  font-size: 20px;
+  text-decoration: none;
+}
+footer {
+  background-color: rgb(8, 8, 63);
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer h2 {
+  color: crimson;
+}
+footer p {
+  color: #fff;
+}
