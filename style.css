@@ -6,9 +6,9 @@ html {
 }
 .qurbani-now {
   background-image: linear-gradient(
-      to left,
-      rgba(215, 216, 225, 0.881),
-      rgba(54, 22, 46, 0.73)
+      to right,
+      rgba(2, 2, 2, 0.9),
+      rgba(241, 232, 232, 0.3)
     ),
     url(image/stock-vector-eid-al-adha-mubarak-background-design-1154473507.jpg);
   background-repeat: no-repeat;
